@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47f7539-c6d1-46c9-85e0-7725830befeb" name="Changes" comment="nav bar is completed">
+    <list default="true" id="b47f7539-c6d1-46c9-85e0-7725830befeb" name="Changes" comment="Feature Section is completed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/bootstrap-4.0.0" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,7 +72,9 @@
       <workItem from="1688499922361" duration="34000" />
       <workItem from="1688499978933" duration="5131000" />
       <workItem from="1688510021515" duration="1231000" />
-      <workItem from="1688546872821" duration="6707000" />
+      <workItem from="1688546872821" duration="9541000" />
+      <workItem from="1688721322677" duration="101000" />
+      <workItem from="1688726928771" duration="3469000" />
     </task>
     <task id="LOCAL-00001" summary="nav bar is completed">
       <created>1688510588686</created>
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688510588686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature Section is completed.">
+      <created>1688553712641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688553712641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nav bar is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav bar is completed" />
+    <MESSAGE value="Feature Section is completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature Section is completed." />
   </component>
 </project>
