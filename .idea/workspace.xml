@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47f7539-c6d1-46c9-85e0-7725830befeb" name="Changes" comment="Feature Section is completed.">
+    <list default="true" id="b47f7539-c6d1-46c9-85e0-7725830befeb" name="Changes" comment="sticky navbar is added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beautiful-view-greenery-bridge-forest-perfect-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/beautiful-view-greenery-bridge-forest-perfect-background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +77,20 @@
       <workItem from="1688510021515" duration="1231000" />
       <workItem from="1688546872821" duration="9541000" />
       <workItem from="1688721322677" duration="101000" />
-      <workItem from="1688726928771" duration="3469000" />
+      <workItem from="1688726928771" duration="13415000" />
+      <workItem from="1688760739462" duration="2306000" />
+      <workItem from="1688809580834" duration="1283000" />
+      <workItem from="1688843463537" duration="1415000" />
+      <workItem from="1688889633537" duration="4283000" />
+      <workItem from="1688898188408" duration="3558000" />
+      <workItem from="1688986850965" duration="4210000" />
+      <workItem from="1689017255556" duration="5054000" />
+      <workItem from="1689099071261" duration="2661000" />
+      <workItem from="1689450454263" duration="1720000" />
+      <workItem from="1689587608868" duration="6385000" />
+      <workItem from="1689967992953" duration="715000" />
+      <workItem from="1690437352780" duration="5122000" />
+      <workItem from="1691507396773" duration="12922000" />
     </task>
     <task id="LOCAL-00001" summary="nav bar is completed">
       <created>1688510588686</created>
@@ -90,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688553712641</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sticky navbar is added.">
+      <created>1688730610870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688730610870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nav bar is completed" />
     <MESSAGE value="Feature Section is completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature Section is completed." />
+    <MESSAGE value="sticky navbar is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="sticky navbar is added." />
   </component>
 </project>
